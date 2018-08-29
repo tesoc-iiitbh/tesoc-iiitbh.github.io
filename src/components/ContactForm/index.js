@@ -5,7 +5,12 @@ import "./style.css";
 export default () => {
   return (
     <div>
-      <form className="form" name="contact" method="post">
+      <form
+        className="form"
+        name="contact"
+        action="https://formspree.io/b416014@iiit-bh.ac.in"
+        method="post"
+      >
         <input type="hidden" name="form-name" value="contact" />
         <h2 className="contact-heading">CONTACT US</h2>
         <p type="Name:">
@@ -37,6 +42,7 @@ export default () => {
             className="form-input"
             placeholder="What would you like to tell us.."
             defaultValue={""}
+            name="message"
             required
             aria-required="true"
           />
