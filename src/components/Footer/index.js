@@ -51,7 +51,7 @@ class Footer extends Component
                 </div>
                 <br />
                 <div className="copyright" >
-                    &copy; 2018 &middot; Tech Scoiety <br />
+                    &copy; 2021 &middot; Tech Society <br />
                     Handcrafted by &nbsp;
                     <a
                         href="https://sonu12485.github.io/"
@@ -59,7 +59,7 @@ class Footer extends Component
                     ><span className="names" >K.Sai Kishan</span></a> &nbsp;
                     &amp; &nbsp;
                     <a
-                        href="https://geekysrm.github.io/"
+                        href="https://soumya.dev/"
                         target="_blank"
                     ><span className="names" >Soumya Ranjan Mohanty</span></a>
                 </div>
