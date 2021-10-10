@@ -16,7 +16,7 @@ class Events extends Component {
         {
           name: "Technova",
           content:
-            "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis,",
+            "The flagship event of IIIT where students come forward to present their project in front of judges.",
           day: "12",
           month: "Aug",
           year: "2018",
@@ -25,7 +25,7 @@ class Events extends Component {
         {
           name: "ML Workshop",
           content:
-            "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis,",
+            "In ML workshop, students learn Machine Learning concepts from scratch till the very depth.",
           day: "12",
           month: "Aug",
           year: "2018",
@@ -36,7 +36,7 @@ class Events extends Component {
         {
           name: "Technova",
           content:
-            "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis,",
+            "The flagship event of IIIT where students come forward to present their project in front of judges.",
           day: "12",
           month: "Aug",
           year: "2017",
@@ -45,7 +45,7 @@ class Events extends Component {
         {
           name: "ML Workshop",
           content:
-            "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis,",
+            "In ML workshop, students learn Machine Learning concepts from scratch till the very depth.",
           day: "12",
           month: "Aug",
           year: "2017",
